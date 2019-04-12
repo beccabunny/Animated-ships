@@ -5,4 +5,4 @@ Have you ever looked at the ships flying around your flagship and thought that t
 
 It also adds animations to some of the ships of the plugin of darcman99, "Spice"
 
-Note number 2: this plugin doesn't work with ships purchased before the plugin installation, unless with editing the ship's attribute
+Second note: this plugin doesn't work with ships purchased before the plugin installation, unless with editing the ship's attribute
