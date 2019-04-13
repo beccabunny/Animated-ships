@@ -10,6 +10,62 @@
 
 
 
+ship "Model 1024"
+	"final explode" "final explosion large"
+	attributes
+		"cargo space" 379
+		"engine capacity" 192
+		"fuel capacity" 500
+		"heat dissipation" .8
+		"outfit space" 819
+		"self destruct" .9
+		"weapon capacity" 267
+		automaton 1
+		category "Heavy Warship"
+		cost 45936000
+		drag 19.1
+		hull 37900
+		mass 1300
+		ramscoop 3
+		shields 119200
+		weapon
+			"blast radius" 420
+			"hit force" 8400
+			"hull damage" 2800
+			"shield damage" 5600
+	description "The next step in the evolution of the Kor Mereti automations comes the model 1024, somewhat improved beyond a perfect ring. Sporting minimal armament with a sudden conversion to a cargo hauling vessel, this was obviously developed after the Kor Mereti gained sentience and started focusing on less warlike endeavors."
+	engine -149 97
+	engine 149 97
+	explode "large explosion" 35
+	explode "medium explosion" 80
+	explode "small explosion" 115
+	explode "tiny explosion" 160
+	gun -22 -143 "Korath Minelayer"
+	gun 22 -143 "Korath Minelayer"
+	outfits
+		"Korath Disruptor"
+		"Korath Mine" 34
+		"Korath Minelayer" 2
+		"Korath Slicer Turret" 2
+		"Large Heat Shunt" 2
+		"Reasoning Node" 5
+		"Steering (Stellar Class)"
+		"Systems Core (Large)"
+		"Systems Core (Small)"
+		"Thruster (Comet Class)"
+		"Thruster (Planetary Class)"
+		"Triple Plasma Core"
+		Hyperdrive
+	sprite ship/model_1024
+		"frame time" 5.4
+		"random start frame"
+		rewind
+	turret -121 86 "Korath Slicer Turret"
+	turret 54 138 "Korath Disruptor"
+turret 91 -102 "Korath Slicer Turret"
+
+
+
 ship "Korath Stalker"
 	attributes
 		"energy capacity" 1100
