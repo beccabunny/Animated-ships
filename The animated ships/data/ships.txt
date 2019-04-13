@@ -1796,7 +1796,7 @@ ship "Model 16"
 
 
 ship "Model 32"
-	sprite "ship/model 3/model 322"
+	sprite "ship/model 32/model 32"
 		"frame time" 4.5
 		"random start frame"
 		rewind
