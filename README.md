@@ -1,5 +1,5 @@
 # Animated-ships
-IMPORTANT
+IMPORTANT: 
 Some people had troubles installing the mod since most times the file is unzipped as plugins/the-animated-ships-master/The animated ships; to work correctly it must be just plugins/The animated ships
 
 Note: this plugin doesn't add lightning, but proper 3d movements of ships part.
