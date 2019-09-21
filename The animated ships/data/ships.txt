@@ -1054,7 +1054,6 @@ ship "Deep River"
 	sprite "ship/deep river/deep river"
 		"frame time" 3
 		"random start frame"
-		rewind
 	thumbnail "thumbnail/deep river"
 	attributes
 		category "Heavy Freighter"
